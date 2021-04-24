@@ -87,6 +87,31 @@
     font-size: 1.25em;
     font-weight: 300;
   }
+
+  em{
+    line-height: 2;
+  }
+
+  .allign2{
+    margin-left: 20px;;
+  }
+
+
+  #portfolio{
+    background-color: bisque;
+  }
+
+  ul>li{
+    list-style-type: square;
+    line-height: 2;
+    font-size: larger;
+    
+  }
+  .allign{
+    font-size: medium;
+    margin-left: 20px;
+  }
+
   @media (min-width: 768px) {
     header .container {
       padding-top: 200px;
